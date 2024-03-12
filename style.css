@@ -1,0 +1,115 @@
+body {
+	background-image: url('img/island\ tree\ about\ us.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.transparent-box {
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.contact-heading {
+	font-size: 32px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.contact-info {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+
+.footer{
+    width: 100%;
+    background-color: rgb(248, 248, 248);
+  }
+
+
+  .sec-7{
+    padding: 40px 120px;
+    justify-content: space-between;
+  }
+
+  .first{
+    padding: 0px 120px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .first img{
+    width: 128px;
+    height: 32px;
+  }
+
+  .first-1a{
+    display: flex;
+  }
+
+  .first-1a form{
+    padding: 10px;
+    margin-right: 20px;
+    
+  }
+
+  .second {
+    padding: 0px 120px;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+  }
+
+  .second div {
+    width: 200px;
+  }
+
+  .second h4 {
+    font-weight: 400;
+    color: rgb(22, 22, 22);
+    white-space: nowrap;
+  }
+
+  .second a {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+    color: gray;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+
+  .second img {
+    width: 137px;
+    height: 40px;
+    margin-top: 11px;
+    cursor: pointer;
+  }
+
+  .social {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .social div {
+    margin-top: -15px;
+    margin-bottom: 15px;
+  }
+
+  .social i{
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  footer{
+    padding: 0px 120px;
+    color: gray;
+    font-size: 0.9rem;
+  }
